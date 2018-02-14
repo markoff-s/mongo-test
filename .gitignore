@@ -1,0 +1,5 @@
+
+.vs/*
+MongoTest/bin/*
+MongoTest/obj/*
+packages/*
